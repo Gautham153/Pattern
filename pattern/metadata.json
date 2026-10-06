@@ -1,0 +1,6 @@
+{
+  "name": "Pattern",
+  "description": "Personal daily data analytics, baseline statistics, and anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
